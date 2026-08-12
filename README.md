@@ -23,7 +23,7 @@ The published editions are standalone English HTML pages. They can be opened dir
 
 ### Related project
 
-- [Python Notes](https://mooseweb3.github.io/Python_Notes/) — practical notes and examples for learning Python.
+- [Python Notes](https://mooseweb3.github.io/Learning/) — practical notes and examples for learning Python.
 
 ### Intended audience
 
@@ -60,7 +60,7 @@ Les versions publiées sont des pages HTML autonomes en anglais. Elles peuvent �
 
 ### Projet connexe
 
-- [Notes Python](https://mooseweb3.github.io/Python_Notes/) — notes pratiques et exemples pour apprendre Python.
+- [Notes Python](https://mooseweb3.github.io/Learning/) — notes pratiques et exemples pour apprendre Python.
 
 ### Public visé
 
@@ -97,7 +97,7 @@ As edições publicadas são páginas HTML autônomas em inglês. Elas podem ser
 
 ### Projeto relacionado
 
-- [Notas de Python](https://mooseweb3.github.io/Python_Notes/) — notas práticas e exemplos para aprender Python.
+- [Notas de Python](https://mooseweb3.github.io/Learning/) — notas práticas e exemplos para aprender Python.
 
 ### Público-alvo
 
