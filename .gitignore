@@ -1,0 +1,20 @@
+# Local reference materials; do not publish.
+/project/
+
+# R Markdown authoring sources; publish rendered output only.
+*.Rmd
+*.rmd
+
+# Chinese HTML editions are kept locally only.
+# Cover the current `_zh` suffix and common locale-style variants.
+*_zh.html
+*_zh-CN.html
+*_zh_CN.html
+*_zh-cn.html
+*_zh_cn.html
+
+# Local R session files.
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
