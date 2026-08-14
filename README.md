@@ -21,6 +21,10 @@ The published editions are standalone English HTML pages. They can be opened dir
 | Supervised Machine Learning in Sociology and Psychology | Classification, regression, validation, calibration, interpretability, fairness, and reproducible R/Python examples | [Open the supervised learning guide](supervised_ml_social_psychology_en.html) |
 | Unsupervised Machine Learning in Sociology and Psychology | Clustering, dimensionality reduction, latent structure, evaluation, interpretation, and applied R/Python examples | [Open the unsupervised learning guide](unsupervised_ml_social_psych_en.html) |
 
+### Related project
+
+- [Python Notes](https://mooseweb3.github.io/Learning/) — practical notes and examples for learning Python.
+
 ### Intended audience
 
 - Students and researchers in biostatistics, sociology, psychology, public health, and related fields;
@@ -54,6 +58,10 @@ Les versions publiées sont des pages HTML autonomes en anglais. Elles peuvent �
 | Apprentissage supervisé en sociologie et en psychologie | Classification, régression, validation, calibration, interprétabilité, équité et exemples reproductibles en R/Python | [Ouvrir le guide d’apprentissage supervisé](supervised_ml_social_psychology_en.html) |
 | Apprentissage non supervisé en sociologie et en psychologie | Classification non supervisée, réduction de dimension, structures latentes, évaluation, interprétation et exemples en R/Python | [Ouvrir le guide d’apprentissage non supervisé](unsupervised_ml_social_psych_en.html) |
 
+### Projet connexe
+
+- [Notes Python](https://mooseweb3.github.io/Learning/) — notes pratiques et exemples pour apprendre Python.
+
 ### Public visé
 
 - Étudiantes, étudiants et chercheurs en biostatistique, sociologie, psychologie, santé publique et disciplines connexes ;
@@ -86,6 +94,10 @@ As edições publicadas são páginas HTML autônomas em inglês. Elas podem ser
 | Modelagem de regressão em alta dimensão | Regularização, seleção de variáveis, validação, estabilidade, interpretação e análise reproduzível | [Abrir o guia de regressão em alta dimensão](high_dimensional_regression_guide_en.html) |
 | Aprendizado supervisionado em sociologia e psicologia | Classificação, regressão, validação, calibração, interpretabilidade, equidade e exemplos reproduzíveis em R/Python | [Abrir o guia de aprendizado supervisionado](supervised_ml_social_psychology_en.html) |
 | Aprendizado não supervisionado em sociologia e psicologia | Agrupamento, redução de dimensionalidade, estruturas latentes, avaliação, interpretação e exemplos aplicados em R/Python | [Abrir o guia de aprendizado não supervisionado](unsupervised_ml_social_psych_en.html) |
+
+### Projeto relacionado
+
+- [Notas de Python](https://mooseweb3.github.io/Learning/) — notas práticas e exemplos para aprender Python.
 
 ### Público-alvo
 
